@@ -1,0 +1,13 @@
+#car{
+    left: 0px;
+    position: absolute;
+    width:  150px ;
+    transition: left 8s linear 0s,
+                opacity 8s linear 0s,
+                width 8s linear 0s;
+}
+#car:hover{
+    left: 500px;
+    width: 500px;
+    opacity: 0;
+ }

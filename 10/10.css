@@ -1,0 +1,14 @@
+.parent{
+    display: flex;
+    column-gap: 10px;
+
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: darkred;
+    border-radius: 50px;
+}
+#secound{
+    flex-grow: 2;
+}

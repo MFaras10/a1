@@ -1,0 +1,39 @@
+.in{
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+    background-color: chocolate;
+    padding: 50px;
+
+}
+.OF{
+   height: 36px;
+   width: 36px;
+   margin: 20px;
+   background-color: chartreuse;
+
+}
+.there{
+    height: 300px;
+    width: 300px;
+    margin-left: 70px;
+    background-color: blue;
+
+}
+.out{
+     height: 300px;
+     width: 300px;
+     margin-left: 100px;
+     margin-top: 20px;
+     background-color: crimson;
+     border: 20px solid coral;
+
+}
+.over{
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    background-color: darkgoldenrod;
+    border: 15px dotted blueviolet;
+
+}

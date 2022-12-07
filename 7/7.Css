@@ -1,0 +1,60 @@
+/* header{
+    background-color: blue;
+   height: 100px;
+
+
+}
+aside{
+    background-color: rgb(255, 51, 0);
+    height: 400px;
+    width: 120px;
+    display: inline-block;
+
+}
+section{
+    background-color: aqua;
+   height: 400px;
+   width: 1000px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: darkgreen;
+    margin-bottom: 110px;
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 30px;
+     
+
+
+}
+.pop{
+    height: 100px;
+    background-color: blueviolet;
+
+
+}
+#cls{
+    margin: auto;
+     width: fit-content;
+
+} */
+li:nth-child(4n+3),
+li:nth-child(4n+2){
+    color: rgb(60, 255, 0);
+
+}
+ul{
+ font-size: 30px;
+/* text-align: center; */
+ width: fit-content;
+ margin: auto;
+}
+li:nth-child(4n+2) + li{
+    color: blue;
+}
+
+

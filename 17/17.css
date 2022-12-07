@@ -1,0 +1,11 @@
+@font-face{
+    font-family: hmm;
+    src: url(CHARLES\ GEORGE\ Regular.otf);
+}
+h1{
+    font-family: hmm;
+}
+
+/* @media screen and (max-wirth) {
+    
+} */

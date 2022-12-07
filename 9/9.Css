@@ -1,0 +1,43 @@
+/* div{
+    height: 200px;
+    width: 100px;
+    background-color: blue;
+}
+.one{
+    float: left;
+}
+.zone{
+    float: right;
+}
+h1{
+    text-align: center;
+} */
+ol li{
+    display: inline-block;
+   
+}
+li:first-child{
+    width: 350px;
+    font-size: 30px;
+}
+li:not(first-child){
+    padding-left: 50px;
+
+}  
+#o{
+    height: 25px;
+    background-color: #00796b;
+    margin-top: -8px;
+}
+section{
+    background-color: #008375;
+    height: 400px;
+}
+/* #site{
+    background-color: #008375;
+    height: 30px;
+} */
+
+
+
+

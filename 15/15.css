@@ -1,0 +1,24 @@
+#or1{
+ height: 100px;
+ width: 300px;
+background-color: blueviolet;
+}
+#or2{
+height: 100px;
+width: 300px;
+background-color: teal;
+display: none;
+}
+#or3{
+height: 100px;
+width: 300px;
+background-color: blue;
+}
+.box0{
+    display: flex;
+}
+@media screen and (min-width:801px) {
+    #or2{
+         display: block;
+    }
+}

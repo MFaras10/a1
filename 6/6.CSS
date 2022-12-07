@@ -1,0 +1,27 @@
+/* .JV{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(69, 42, 165);
+    margin: auto;
+    text-align: center;
+} */
+
+.box{
+border: 2px solid; color: rgb(204, 69, 69);
+height: 150px;
+width: 150px;
+margin: auto;
+text-align: center;
+margin-top: 30px;
+display: inline-block;
+background-color: blueviolet;
+
+}
+.box img{
+    width: 82%;
+}
+.box2{
+margin: auto;
+width: fit-content;
+
+}
